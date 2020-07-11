@@ -30,6 +30,6 @@ if __name__ == '__main__':
     # crawl_by_query(query='TS=(solid waste) AND PY=(1900-1978)',
     #                output_path='../output', output_format='fieldtagged', document_type='Article', sid='E5gsGHmjPtA2AxeNeM6')
 
-    # 使用GUI下载
     crawl_by_gui()
+   
     pass
